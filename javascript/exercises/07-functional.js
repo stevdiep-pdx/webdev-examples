@@ -28,6 +28,7 @@ const mapNameFamily = (characters) => {
 
 const filterFamily = (characters, house) => {
   // Return an array with only the characters from a given house
+  // Test
 
   return characters;
 };
